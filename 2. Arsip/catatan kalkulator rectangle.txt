@@ -1,0 +1,17 @@
+Jika Anda hanya tahu salah satu panjang atau lebar, dan kelilingnya:
+
+Jika yang diketahui adalah panjang, maka rumusnya:
+Lebar = (Keliling - 2 × Panjang) / 2
+Jika yang diketahui adalah lebar, maka rumusnya:
+Panjang = (Keliling - 2 × Lebar) / 2
+
+a2 yang diketahui lebar dan luas
+(b1) Diketahui Panjang dan keliling
+(b2) Diketahui Panjang dan luas
+
+Jika Anda hanya tahu salah satu panjang atau lebar, dan luasnya:
+
+Jika yang diketahui adalah panjang, maka rumusnya:
+Lebar = Luas / Panjang
+Jika yang diketahui adalah lebar, maka rumusnya:
+Panjang = Luas / Lebar
